@@ -6,3 +6,8 @@ Java + Spring Lagacy + Oracle
 
 #2. 워크플로우
 <video src="https://github.com/user-attachments/assets/2dacdae3-601f-41af-9984-35f8e2251152" control width="600" />
+
+#3. 유튜브 = 링크주소 복사
+<a href="https://www.youtube.com/watch?v=CQtrGGC_dko&pp=ygUP7ZiE64yA7J6Q64-Z7LCo">
+  <img src="#" alt"썸네일"/>
+</a>
